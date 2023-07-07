@@ -1,0 +1,13 @@
+"./tm4c123gh6pm_startup_ccs.obj"
+"./Lab8 Code Files/Timer.obj"
+"./Lab8 Code Files/adc.obj"
+"./Lab8 Code Files/lcd.obj"
+"./Lab8 Code Files/main.obj"
+"./Lab8 Code Files/movement.obj"
+"./Lab8 Code Files/open_interface.obj"
+"./Lab8 Code Files/uart-interrupt.obj"
+"../tm4c123gh6pm.cmd"
+"../Lab8 Code Files/libcybotScan.lib"
+"../Lab8 Code Files/libcybotUART.lib"
+-llibc.a
+-l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
